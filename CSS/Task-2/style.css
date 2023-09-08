@@ -1,0 +1,41 @@
+.Square {
+  /* height: 180px; */
+  width: 200px;
+  /* display: inline-block; */
+  background-color: rgb(49, 211, 203);
+  margin: 0px;
+  padding: 0px;
+}
+.text {
+  display: block;
+  color: blue;
+  padding: 8px 16px;
+}
+.text:hover {
+  height: 30px;
+  background-color: rgba(189, 138, 28, 0.76);
+}
+.Horizontal {
+    list-style-type: none;
+    margin-right: 40%;
+    padding: 0;
+    overflow: hidden;
+    background-color: #dadada;
+  }
+
+  .float {
+    float: left;
+    border-right: 1px solid blue;
+  }
+
+  .horzOpt {
+    display: inline-block;
+    color: blue;
+    padding: 8px 16px;
+    text-decoration: none;
+  }
+
+  .horzOpt:hover{
+    background-color: gray ;
+    color: white;
+  }

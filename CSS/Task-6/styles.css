@@ -1,0 +1,34 @@
+/* .resize {
+  margin-left: 57px;
+  width: 250px;
+} */
+#resize{
+    margin-left: 557px;
+    width: 250px;
+}
+.content {
+  align-items: center;
+  margin-left: 480px;
+  font-family: "Montserrat", sans-serif;
+}
+.Login {
+  width: 500px;
+  height: 40px;
+  color: white;
+  background-color: rgb(32, 158, 32);
+}
+#name,
+#pass {
+  width: 350px;
+  height: 25px;
+}
+
+.Cancel{
+    width: 100px;
+    height: 40px;
+    color: white;
+    background-color: red;
+}
+.Forgot{
+    margin-left: 400px;
+}

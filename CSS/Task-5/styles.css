@@ -1,0 +1,33 @@
+body {
+  background-color: rgba(218, 178, 0, 0.863);
+  border: 2px dotted rgb(26, 41, 104);
+}
+hr {
+  height: 0px;
+  color: rgb(26, 41, 104);
+  border-style: dotted;
+  margin-right: 10px;
+}
+.Bod {
+  color: purple;
+  margin-left: 300px;
+}
+ul.navbar {
+  list-style-type: none;
+  margin: 0;
+  position: absolute;
+  top: 2em;
+  left: 1em;
+  width: 9em;
+}
+
+ul.navbar li {
+  color: rgb(26, 41, 104);
+  background-color: white;
+  margin: 0.5em 0;
+  padding: 0.3em;
+  border-right: 1em solid black;
+}
+ul.navbar a:hover {
+  color: purple;
+}

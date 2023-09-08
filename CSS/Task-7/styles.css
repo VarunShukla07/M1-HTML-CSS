@@ -1,0 +1,27 @@
+body{
+    background-color: rgb(141, 11, 50);
+}
+h1{
+    color: white;
+    font-family: "Montserrat", sans-serif;
+}
+.form{
+    margin-top: 50px;
+    margin-left: 400px;
+    color: white;
+    font-family: "Montserrat", sans-serif;
+    padding-top: 40px;
+    padding-left: 100px;
+    height: 400px;
+    width: 400px;
+    display: inline-block;
+    background-color: rgb(90, 3, 25);
+}
+#about{
+    height: 40px;
+}
+.Register{
+    width: 300px;
+    height: 40px;
+    font-family: "Montserrat", sans-serif;
+}

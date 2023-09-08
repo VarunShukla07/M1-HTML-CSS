@@ -1,0 +1,33 @@
+.Intro {
+  margin-left: 100px;
+}
+.sidenav a {
+  display: inline-block;
+  position: absolute;
+  left: -80px;
+  transition: 0.4s;
+  padding: 15px;
+  width: 100px;
+  font-size: 20px;
+  color: white;
+  border-radius: 0 5px 5px 0;
+}
+.sidenav a:hover {
+  left: 0;
+}
+.about {
+  background-color: mediumseagreen;
+  top: 20px;
+}
+.blog {
+  background-color: rgb(22, 40, 194);
+  top: 90px;
+}
+.projects {
+  background-color: #f44336;
+  top: 160px;
+}
+.contact {
+  background-color: grey;
+  top: 230px;
+}

@@ -1,0 +1,20 @@
+table{
+    background-color: white;
+    border: 1pt solid rgb(206, 206, 206);
+    width: 60%;
+    border-collapse: collapse;
+}
+
+.headRow{
+    text-align: left;
+    background-color: rgb(3, 137, 103);
+    color: white;
+}
+
+.oddRow{
+    background-color: rgb(209, 209, 209);
+}
+
+table td, th {
+  padding: 5px;
+}
